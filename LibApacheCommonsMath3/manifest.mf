@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+OpenIDE-Module: umich.ms.batmass.libs.apache.commons.math3
+OpenIDE-Module-Localizing-Bundle: umich/ms/batmass/libs/apache/commons/math3/Bundle.properties
+OpenIDE-Module-Specification-Version: 1.0
+

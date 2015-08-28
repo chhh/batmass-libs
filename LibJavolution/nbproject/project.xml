@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://www.netbeans.org/ns/project/1">
+    <type>org.netbeans.modules.apisupport.project</type>
+    <configuration>
+        <data xmlns="http://www.netbeans.org/ns/nb-module-project/3">
+            <code-name-base>umich.ms.batmass.libs.javolution</code-name-base>
+            <suite-component/>
+            <module-dependencies/>
+            <public-packages>
+                <package>javax.realtime</package>
+                <package>javolution.context</package>
+                <package>javolution.context.internal</package>
+                <package>javolution.io</package>
+                <package>javolution.lang</package>
+                <package>javolution.osgi.internal</package>
+                <package>javolution.text</package>
+                <package>javolution.text.internal</package>
+                <package>javolution.tools</package>
+                <package>javolution.util</package>
+                <package>javolution.util.function</package>
+                <package>javolution.util.internal</package>
+                <package>javolution.util.internal.bitset</package>
+                <package>javolution.util.internal.collection</package>
+                <package>javolution.util.internal.comparator</package>
+                <package>javolution.util.internal.map</package>
+                <package>javolution.util.internal.map.sorted</package>
+                <package>javolution.util.internal.set</package>
+                <package>javolution.util.internal.set.sorted</package>
+                <package>javolution.util.internal.table</package>
+                <package>javolution.util.internal.table.sorted</package>
+                <package>javolution.util.service</package>
+                <package>javolution.xml</package>
+                <package>javolution.xml.internal</package>
+                <package>javolution.xml.internal.stream</package>
+                <package>javolution.xml.sax</package>
+                <package>javolution.xml.stream</package>
+                <package>javolution.xml.ws</package>
+                <package>org.osgi.service.log</package>
+            </public-packages>
+            <class-path-extension>
+                <runtime-relative-path>ext/javolution-core-java-6.1.0-20140201.140336-13.jar</runtime-relative-path>
+                <binary-origin>release/modules/ext/javolution-core-java-6.1.0-20140201.140336-13.jar</binary-origin>
+            </class-path-extension>
+        </data>
+    </configuration>
+</project>

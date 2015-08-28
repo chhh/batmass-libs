@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://www.netbeans.org/ns/project/1">
+    <type>org.netbeans.modules.apisupport.project</type>
+    <configuration>
+        <data xmlns="http://www.netbeans.org/ns/nb-module-project/3">
+            <code-name-base>umich.ms.batmass.libs.fst158</code-name-base>
+            <suite-component/>
+            <module-dependencies/>
+            <public-packages>
+                <package>de.ruedigermoeller.heapoff</package>
+                <package>de.ruedigermoeller.heapoff.bytez</package>
+                <package>de.ruedigermoeller.heapoff.bytez.malloc</package>
+                <package>de.ruedigermoeller.heapoff.bytez.onheap</package>
+                <package>de.ruedigermoeller.heapoff.structs</package>
+                <package>de.ruedigermoeller.heapoff.structs.structtypes</package>
+                <package>de.ruedigermoeller.heapoff.structs.unsafeimpl</package>
+                <package>de.ruedigermoeller.serialization</package>
+                <package>de.ruedigermoeller.serialization.annotations</package>
+                <package>de.ruedigermoeller.serialization.dson</package>
+                <package>de.ruedigermoeller.serialization.dson.generators</package>
+                <package>de.ruedigermoeller.serialization.serializers</package>
+                <package>de.ruedigermoeller.serialization.util</package>
+                <package>javassist</package>
+                <package>javassist.bytecode</package>
+                <package>javassist.bytecode.analysis</package>
+                <package>javassist.bytecode.annotation</package>
+                <package>javassist.bytecode.stackmap</package>
+                <package>javassist.compiler</package>
+                <package>javassist.compiler.ast</package>
+                <package>javassist.convert</package>
+                <package>javassist.expr</package>
+                <package>javassist.runtime</package>
+                <package>javassist.scopedpool</package>
+                <package>javassist.tools</package>
+                <package>javassist.tools.reflect</package>
+                <package>javassist.tools.rmi</package>
+                <package>javassist.tools.web</package>
+                <package>javassist.util</package>
+                <package>javassist.util.proxy</package>
+            </public-packages>
+            <class-path-extension>
+                <runtime-relative-path>ext/fst-1.58-onejar.jar</runtime-relative-path>
+                <binary-origin>release/modules/ext/fst-1.58-onejar.jar</binary-origin>
+            </class-path-extension>
+        </data>
+    </configuration>
+</project>

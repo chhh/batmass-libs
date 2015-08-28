@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://www.netbeans.org/ns/project/1">
+    <type>org.netbeans.modules.apisupport.project</type>
+    <configuration>
+        <data xmlns="http://www.netbeans.org/ns/nb-module-project/3">
+            <code-name-base>umich.ms.batmass.libs.apache.commons.configuration2</code-name-base>
+            <suite-component/>
+            <module-dependencies/>
+            <public-packages>
+                <package>org.apache.commons.configuration2</package>
+                <package>org.apache.commons.configuration2.beanutils</package>
+                <package>org.apache.commons.configuration2.builder</package>
+                <package>org.apache.commons.configuration2.builder.combined</package>
+                <package>org.apache.commons.configuration2.builder.fluent</package>
+                <package>org.apache.commons.configuration2.convert</package>
+                <package>org.apache.commons.configuration2.event</package>
+                <package>org.apache.commons.configuration2.ex</package>
+                <package>org.apache.commons.configuration2.interpol</package>
+                <package>org.apache.commons.configuration2.io</package>
+                <package>org.apache.commons.configuration2.plist</package>
+                <package>org.apache.commons.configuration2.reloading</package>
+                <package>org.apache.commons.configuration2.resolver</package>
+                <package>org.apache.commons.configuration2.sync</package>
+                <package>org.apache.commons.configuration2.tree</package>
+                <package>org.apache.commons.configuration2.tree.xpath</package>
+                <package>org.apache.commons.configuration2.web</package>
+            </public-packages>
+            <class-path-extension>
+                <runtime-relative-path>ext/commons-configuration2-2.0-alpha1.jar</runtime-relative-path>
+                <binary-origin>release/modules/ext/commons-configuration2-2.0-alpha1.jar</binary-origin>
+            </class-path-extension>
+        </data>
+    </configuration>
+</project>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://www.netbeans.org/ns/project/1">
+    <type>org.netbeans.modules.apisupport.project</type>
+    <configuration>
+        <data xmlns="http://www.netbeans.org/ns/nb-module-project/3">
+            <code-name-base>umich.ms.batmass.libs.apache.commons.configuration</code-name-base>
+            <suite-component/>
+            <module-dependencies>
+                <dependency>
+                    <code-name-base>umich.ms.batmass.libs.apache.commons.lang2</code-name-base>
+                    <build-prerequisite/>
+                    <compile-dependency/>
+                    <run-dependency>
+                        <specification-version>1.0</specification-version>
+                    </run-dependency>
+                </dependency>
+                <dependency>
+                    <code-name-base>umich.ms.batmass.libs.apache.commons.logging</code-name-base>
+                    <build-prerequisite/>
+                    <compile-dependency/>
+                    <run-dependency>
+                        <specification-version>1.0</specification-version>
+                    </run-dependency>
+                </dependency>
+            </module-dependencies>
+            <public-packages>
+                <package>org.apache.commons.configuration</package>
+                <package>org.apache.commons.configuration.beanutils</package>
+                <package>org.apache.commons.configuration.event</package>
+                <package>org.apache.commons.configuration.interpol</package>
+                <package>org.apache.commons.configuration.plist</package>
+                <package>org.apache.commons.configuration.reloading</package>
+                <package>org.apache.commons.configuration.resolver</package>
+                <package>org.apache.commons.configuration.tree</package>
+                <package>org.apache.commons.configuration.tree.xpath</package>
+                <package>org.apache.commons.configuration.web</package>
+            </public-packages>
+            <class-path-extension>
+                <runtime-relative-path>ext/commons-configuration-1.10.jar</runtime-relative-path>
+                <binary-origin>release/modules/ext/commons-configuration-1.10.jar</binary-origin>
+            </class-path-extension>
+        </data>
+    </configuration>
+</project>

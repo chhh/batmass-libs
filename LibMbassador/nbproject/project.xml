@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://www.netbeans.org/ns/project/1">
+    <type>org.netbeans.modules.apisupport.project</type>
+    <configuration>
+        <data xmlns="http://www.netbeans.org/ns/nb-module-project/3">
+            <code-name-base>umich.ms.batmass.libs.mbassador</code-name-base>
+            <suite-component/>
+            <module-dependencies/>
+            <public-packages>
+                <package>net.engio.mbassy.bus</package>
+                <package>net.engio.mbassy.bus.common</package>
+                <package>net.engio.mbassy.bus.config</package>
+                <package>net.engio.mbassy.bus.error</package>
+                <package>net.engio.mbassy.bus.publication</package>
+                <package>net.engio.mbassy.common</package>
+                <package>net.engio.mbassy.dispatch</package>
+                <package>net.engio.mbassy.dispatch.el</package>
+                <package>net.engio.mbassy.listener</package>
+                <package>net.engio.mbassy.subscription</package>
+            </public-packages>
+            <class-path-extension>
+                <runtime-relative-path>ext/mbassador-1.2.1.jar</runtime-relative-path>
+                <binary-origin>release/modules/ext/mbassador-1.2.1.jar</binary-origin>
+            </class-path-extension>
+        </data>
+    </configuration>
+</project>

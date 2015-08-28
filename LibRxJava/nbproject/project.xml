@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://www.netbeans.org/ns/project/1">
+    <type>org.netbeans.modules.apisupport.project</type>
+    <configuration>
+        <data xmlns="http://www.netbeans.org/ns/nb-module-project/3">
+            <code-name-base>umich.ms.batmass.libs.rxjava</code-name-base>
+            <suite-component/>
+            <module-dependencies/>
+            <public-packages>
+                <package>rx</package>
+                <package>rx.annotations</package>
+                <package>rx.exceptions</package>
+                <package>rx.functions</package>
+                <package>rx.internal.operators</package>
+                <package>rx.internal.schedulers</package>
+                <package>rx.internal.util</package>
+                <package>rx.internal.util.unsafe</package>
+                <package>rx.observables</package>
+                <package>rx.observers</package>
+                <package>rx.plugins</package>
+                <package>rx.schedulers</package>
+                <package>rx.subjects</package>
+                <package>rx.subscriptions</package>
+            </public-packages>
+            <class-path-extension>
+                <runtime-relative-path>ext/rxjava-1.0.9.jar</runtime-relative-path>
+                <binary-origin>release/modules/ext/rxjava-1.0.9.jar</binary-origin>
+            </class-path-extension>
+        </data>
+    </configuration>
+</project>

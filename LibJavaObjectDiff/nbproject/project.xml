@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://www.netbeans.org/ns/project/1">
+    <type>org.netbeans.modules.apisupport.project</type>
+    <configuration>
+        <data xmlns="http://www.netbeans.org/ns/nb-module-project/3">
+            <code-name-base>umich.ms.batmass.libs.javaobjectdiff</code-name-base>
+            <suite-component/>
+            <module-dependencies>
+                <dependency>
+                    <code-name-base>umich.ms.batmass.libs</code-name-base>
+                    <build-prerequisite/>
+                    <compile-dependency/>
+                    <run-dependency>
+                        <specification-version>1.0</specification-version>
+                    </run-dependency>
+                </dependency>
+            </module-dependencies>
+            <public-packages>
+                <package>de.danielbechler.diff</package>
+                <package>de.danielbechler.diff.access</package>
+                <package>de.danielbechler.diff.category</package>
+                <package>de.danielbechler.diff.circular</package>
+                <package>de.danielbechler.diff.comparison</package>
+                <package>de.danielbechler.diff.differ</package>
+                <package>de.danielbechler.diff.filtering</package>
+                <package>de.danielbechler.diff.inclusion</package>
+                <package>de.danielbechler.diff.instantiation</package>
+                <package>de.danielbechler.diff.introspection</package>
+                <package>de.danielbechler.diff.node</package>
+                <package>de.danielbechler.diff.path</package>
+                <package>de.danielbechler.diff.selector</package>
+                <package>de.danielbechler.util</package>
+            </public-packages>
+            <class-path-extension>
+                <runtime-relative-path>ext/java-object-diff-0.92.jar</runtime-relative-path>
+                <binary-origin>release/modules/ext/java-object-diff-0.92.jar</binary-origin>
+            </class-path-extension>
+        </data>
+    </configuration>
+</project>
