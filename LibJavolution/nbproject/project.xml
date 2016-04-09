@@ -38,8 +38,8 @@
                 <package>org.osgi.service.log</package>
             </public-packages>
             <class-path-extension>
-                <runtime-relative-path>ext/javolution-core-java-6.1.0-20140201.140336-13.jar</runtime-relative-path>
-                <binary-origin>release/modules/ext/javolution-core-java-6.1.0-20140201.140336-13.jar</binary-origin>
+                <runtime-relative-path>ext/javolution-core-java-6.1.0-SNAPSHOT.jar</runtime-relative-path>
+                <binary-origin>release/modules/ext/javolution-core-java-6.1.0-SNAPSHOT.jar</binary-origin>
             </class-path-extension>
         </data>
     </configuration>
