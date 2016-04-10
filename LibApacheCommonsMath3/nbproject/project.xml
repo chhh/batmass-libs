@@ -70,8 +70,8 @@
                 <package>org.apache.commons.math3.util</package>
             </public-packages>
             <class-path-extension>
-                <runtime-relative-path>ext/commons-math3-3.2.jar</runtime-relative-path>
-                <binary-origin>release/modules/ext/commons-math3-3.2.jar</binary-origin>
+                <runtime-relative-path>ext/commons-math3.jar</runtime-relative-path>
+                <binary-origin>release/modules/ext/commons-math3.jar</binary-origin>
             </class-path-extension>
         </data>
     </configuration>
