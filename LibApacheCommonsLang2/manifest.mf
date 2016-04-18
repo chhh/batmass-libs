@@ -1,5 +1,5 @@
 Manifest-Version: 1.0
 OpenIDE-Module: umich.ms.batmass.libs.apache.commons.lang2
 OpenIDE-Module-Localizing-Bundle: umich/ms/batmass/libs/apache/commons/lang2/Bundle.properties
-OpenIDE-Module-Specification-Version: 1.0
+OpenIDE-Module-Specification-Version: 2.6
 

@@ -2,5 +2,5 @@ Manifest-Version: 1.0
 AutoUpdate-Show-In-Client: true
 OpenIDE-Module: umich.ms.batmass.libs.apache.commons.beanutils
 OpenIDE-Module-Localizing-Bundle: umich/ms/batmass/libs/apache/commons/beanutils/Bundle.properties
-OpenIDE-Module-Specification-Version: 1.0
+OpenIDE-Module-Specification-Version: 1.9.2
 

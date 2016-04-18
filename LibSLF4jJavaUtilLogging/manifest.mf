@@ -2,5 +2,5 @@ Manifest-Version: 1.0
 AutoUpdate-Show-In-Client: true
 OpenIDE-Module: umich.ms.batmass.libs.slf4j.jul
 OpenIDE-Module-Localizing-Bundle: umich/ms/batmass/libs/slf4j/jul/Bundle.properties
-OpenIDE-Module-Specification-Version: 1.0
+OpenIDE-Module-Specification-Version: 1.7.10
 
