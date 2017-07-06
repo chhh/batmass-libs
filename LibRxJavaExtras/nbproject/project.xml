@@ -10,6 +10,7 @@
                 <package>com.github.davidmoten.rx</package>
                 <package>com.github.davidmoten.rx.buffertofile</package>
                 <package>com.github.davidmoten.rx.exceptions</package>
+                <package>com.github.davidmoten.rx.internal</package>
                 <package>com.github.davidmoten.rx.internal.operators</package>
                 <package>com.github.davidmoten.rx.observables</package>
                 <package>com.github.davidmoten.rx.subjects</package>
@@ -18,8 +19,8 @@
                 <package>com.github.davidmoten.util</package>
             </public-packages>
             <class-path-extension>
-                <runtime-relative-path>ext/rxjava-extras-0.7.9.10.jar</runtime-relative-path>
-                <binary-origin>release/modules/ext/rxjava-extras-0.7.9.10.jar</binary-origin>
+                <runtime-relative-path>ext/rxjava-extras-0.8.0.7.jar</runtime-relative-path>
+                <binary-origin>release/modules/ext/rxjava-extras-0.8.0.7.jar</binary-origin>
             </class-path-extension>
         </data>
     </configuration>

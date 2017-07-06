@@ -1,6 +1,6 @@
 Manifest-Version: 1.0
 AutoUpdate-Show-In-Client: true
-OpenIDE-Module: umich.ms.batmass.libs.guava180
-OpenIDE-Module-Localizing-Bundle: umich/ms/batmass/libs/guava180/Bundle.properties
-OpenIDE-Module-Specification-Version: 18.0
+OpenIDE-Module: umich.ms.batmass.libs.guava
+OpenIDE-Module-Localizing-Bundle: umich/ms/batmass/libs/guava/Bundle.properties
+OpenIDE-Module-Specification-Version: 22.0
 

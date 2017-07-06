@@ -11,9 +11,11 @@
                 <package>rx.annotations</package>
                 <package>rx.exceptions</package>
                 <package>rx.functions</package>
+                <package>rx.internal.observers</package>
                 <package>rx.internal.operators</package>
                 <package>rx.internal.producers</package>
                 <package>rx.internal.schedulers</package>
+                <package>rx.internal.subscriptions</package>
                 <package>rx.internal.util</package>
                 <package>rx.internal.util.atomic</package>
                 <package>rx.internal.util.unsafe</package>
@@ -26,8 +28,8 @@
                 <package>rx.subscriptions</package>
             </public-packages>
             <class-path-extension>
-                <runtime-relative-path>ext/rxjava-1.1.7.jar</runtime-relative-path>
-                <binary-origin>release/modules/ext/rxjava-1.1.7.jar</binary-origin>
+                <runtime-relative-path>ext/rxjava-1.2.10.jar</runtime-relative-path>
+                <binary-origin>release/modules/ext/rxjava-1.2.10.jar</binary-origin>
             </class-path-extension>
         </data>
     </configuration>
