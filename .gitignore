@@ -7,4 +7,6 @@
 **/nb-configuration.xml
 **/out/
 
+updates-backup
+
 **/.idea/workspace.xml
