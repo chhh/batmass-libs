@@ -1,158 +1,158 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 
 <!DOCTYPE module_updates PUBLIC "-//NetBeans//DTD Autoupdate Catalog 2.6//EN" "http://www.netbeans.org/dtds/autoupdate-catalog-2_6.dtd">
-<module_updates timestamp="50/13/21/06/07/2017">
+<module_updates timestamp="14/40/17/14/06/2018">
 
 
 
-<module codenamebase="umich.ms.batmass.libs.autoupdate" distribution="umich-ms-batmass-libs-autoupdate.nbm" downloadsize="4720" homepage="" license="AD9FBBC9" moduleauthor="" needsrestart="false" releasedate="2017/07/06">
-    <manifest AutoUpdate-Show-In-Client="true" OpenIDE-Module="umich.ms.batmass.libs.autoupdate" OpenIDE-Module-Implementation-Version="170706" OpenIDE-Module-Java-Dependencies="Java &gt; 1.7" OpenIDE-Module-Long-Description="The default behavior of client's UC is controlled by additional params added to batmass.conf:&#10;&#10;    -J-Dplugin.manager.check.interval=EVERY_STARTUP &#10;    This forces to check for updates at app start by default. if the user changes that manually later,&#10;    his settings will be remembered and used afterwards.&#10;    &#10;    -J-Dplugin.manager.check.new.plugins=true&#10;    This option forces to check for new plugin availability (not only updates to the installed plugins).&#10;    New plugins are reported as new updates in a balloon notification in the bottom right corner,&#10;    making it more likely to be installed by users." OpenIDE-Module-Module-Dependencies="org.netbeans.modules.autoupdate.services &gt; 1.51.1" OpenIDE-Module-Name="Auto Update (BatMassLibs)" OpenIDE-Module-Requires="org.openide.modules.ModuleFormat1" OpenIDE-Module-Short-Description="BatMassLibs Update Center" OpenIDE-Module-Specification-Version="1.0"/>
+<module codenamebase="umich.ms.batmass.libs.autoupdate" distribution="umich-ms-batmass-libs-autoupdate.nbm" downloadsize="4727" homepage="" license="AD9FBBC9" moduleauthor="" needsrestart="false" releasedate="2018/06/14">
+    <manifest AutoUpdate-Show-In-Client="true" OpenIDE-Module="umich.ms.batmass.libs.autoupdate" OpenIDE-Module-Implementation-Version="180613" OpenIDE-Module-Java-Dependencies="Java &gt; 1.7" OpenIDE-Module-Long-Description="The default behavior of client's UC is controlled by additional params added to batmass.conf:&#10;&#10;    -J-Dplugin.manager.check.interval=EVERY_STARTUP &#10;    This forces to check for updates at app start by default. if the user changes that manually later,&#10;    his settings will be remembered and used afterwards.&#10;    &#10;    -J-Dplugin.manager.check.new.plugins=true&#10;    This option forces to check for new plugin availability (not only updates to the installed plugins).&#10;    New plugins are reported as new updates in a balloon notification in the bottom right corner,&#10;    making it more likely to be installed by users." OpenIDE-Module-Module-Dependencies="org.netbeans.modules.autoupdate.services &gt; 1.51.1" OpenIDE-Module-Name="Auto Update (BatMassLibs)" OpenIDE-Module-Requires="org.openide.modules.ModuleFormat1" OpenIDE-Module-Short-Description="BatMassLibs Update Center" OpenIDE-Module-Specification-Version="1.0"/>
     
 </module>
 
-<module autoload="true" codenamebase="umich.ms.batmass.libs.apache.commons.beanutils" distribution="umich-ms-batmass-libs-apache-commons-beanutils.nbm" downloadsize="77281" homepage="" license="B2B74E56" moduleauthor="" needsrestart="false" releasedate="2017/07/06">
-    <manifest AutoUpdate-Show-In-Client="true" OpenIDE-Module="umich.ms.batmass.libs.apache.commons.beanutils" OpenIDE-Module-Implementation-Version="170706" OpenIDE-Module-Java-Dependencies="Java &gt; 1.4" OpenIDE-Module-Module-Dependencies="umich.ms.batmass.libs.apache.commons.logging &gt; 1.1.3" OpenIDE-Module-Name="Lib ApacheCommonsBeanUtils" OpenIDE-Module-Requires="org.openide.modules.ModuleFormat1" OpenIDE-Module-Specification-Version="1.9.2"/>
+<module autoload="true" codenamebase="umich.ms.batmass.libs.apache.commons.beanutils" distribution="umich-ms-batmass-libs-apache-commons-beanutils.nbm" downloadsize="77285" homepage="" license="B2B74E56" moduleauthor="" needsrestart="false" releasedate="2018/06/14">
+    <manifest AutoUpdate-Show-In-Client="true" OpenIDE-Module="umich.ms.batmass.libs.apache.commons.beanutils" OpenIDE-Module-Implementation-Version="180613" OpenIDE-Module-Java-Dependencies="Java &gt; 1.4" OpenIDE-Module-Module-Dependencies="umich.ms.batmass.libs.apache.commons.logging &gt; 1.1.3" OpenIDE-Module-Name="Lib ApacheCommonsBeanUtils" OpenIDE-Module-Requires="org.openide.modules.ModuleFormat1" OpenIDE-Module-Specification-Version="1.9.2"/>
     
 </module>
 
-<module autoload="true" codenamebase="umich.ms.batmass.libs.apache.commons.codec" distribution="umich-ms-batmass-libs-apache-commons-codec.nbm" downloadsize="397538" homepage="" license="B2B74E56" moduleauthor="" needsrestart="false" releasedate="2017/07/06">
-    <manifest AutoUpdate-Show-In-Client="false" OpenIDE-Module="umich.ms.batmass.libs.apache.commons.codec" OpenIDE-Module-Implementation-Version="170706" OpenIDE-Module-Java-Dependencies="Java &gt; 1.4" OpenIDE-Module-Name="Lib ApacheCommonsCodec" OpenIDE-Module-Requires="org.openide.modules.ModuleFormat1" OpenIDE-Module-Specification-Version="1.0"/>
+<module autoload="true" codenamebase="umich.ms.batmass.libs.apache.commons.codec" distribution="umich-ms-batmass-libs-apache-commons-codec.nbm" downloadsize="397542" homepage="" license="B2B74E56" moduleauthor="" needsrestart="false" releasedate="2018/06/14">
+    <manifest AutoUpdate-Show-In-Client="false" OpenIDE-Module="umich.ms.batmass.libs.apache.commons.codec" OpenIDE-Module-Implementation-Version="180613" OpenIDE-Module-Java-Dependencies="Java &gt; 1.4" OpenIDE-Module-Name="Lib ApacheCommonsCodec" OpenIDE-Module-Requires="org.openide.modules.ModuleFormat1" OpenIDE-Module-Specification-Version="1.0"/>
     
 </module>
 
-<module autoload="true" codenamebase="umich.ms.batmass.libs.apache.commons.collections3" distribution="umich-ms-batmass-libs-apache-commons-collections3.nbm" downloadsize="125761" homepage="" license="B2B74E56" moduleauthor="" needsrestart="false" releasedate="2017/07/06">
-    <manifest AutoUpdate-Show-In-Client="true" OpenIDE-Module="umich.ms.batmass.libs.apache.commons.collections3" OpenIDE-Module-Implementation-Version="170706" OpenIDE-Module-Java-Dependencies="Java &gt; 1.4" OpenIDE-Module-Name="Lib ApacheCommonsCollections3" OpenIDE-Module-Requires="org.openide.modules.ModuleFormat1" OpenIDE-Module-Specification-Version="3.2.1"/>
+<module autoload="true" codenamebase="umich.ms.batmass.libs.apache.commons.collections3" distribution="umich-ms-batmass-libs-apache-commons-collections3.nbm" downloadsize="125771" homepage="" license="B2B74E56" moduleauthor="" needsrestart="false" releasedate="2018/06/14">
+    <manifest AutoUpdate-Show-In-Client="true" OpenIDE-Module="umich.ms.batmass.libs.apache.commons.collections3" OpenIDE-Module-Implementation-Version="180613" OpenIDE-Module-Java-Dependencies="Java &gt; 1.4" OpenIDE-Module-Name="Lib ApacheCommonsCollections3" OpenIDE-Module-Requires="org.openide.modules.ModuleFormat1" OpenIDE-Module-Specification-Version="3.2.1"/>
     
 </module>
 
-<module autoload="true" codenamebase="umich.ms.batmass.libs.apache.commons.configuration" distribution="umich-ms-batmass-libs-apache-commons-configuration.nbm" downloadsize="116447" homepage="" license="B2B74E56" moduleauthor="" needsrestart="false" releasedate="2017/07/06">
-    <manifest AutoUpdate-Show-In-Client="false" OpenIDE-Module="umich.ms.batmass.libs.apache.commons.configuration" OpenIDE-Module-Implementation-Version="170706" OpenIDE-Module-Java-Dependencies="Java &gt; 1.4" OpenIDE-Module-Module-Dependencies="umich.ms.batmass.libs.apache.commons.lang2 &gt; 2.6, umich.ms.batmass.libs.apache.commons.logging &gt; 1.0" OpenIDE-Module-Name="Lib ApacheCommonsConfiguration" OpenIDE-Module-Requires="org.openide.modules.ModuleFormat1" OpenIDE-Module-Specification-Version="1.10"/>
+<module autoload="true" codenamebase="umich.ms.batmass.libs.apache.commons.configuration" distribution="umich-ms-batmass-libs-apache-commons-configuration.nbm" downloadsize="116450" homepage="" license="B2B74E56" moduleauthor="" needsrestart="false" releasedate="2018/06/14">
+    <manifest AutoUpdate-Show-In-Client="false" OpenIDE-Module="umich.ms.batmass.libs.apache.commons.configuration" OpenIDE-Module-Implementation-Version="180613" OpenIDE-Module-Java-Dependencies="Java &gt; 1.4" OpenIDE-Module-Module-Dependencies="umich.ms.batmass.libs.apache.commons.lang2 &gt; 2.6, umich.ms.batmass.libs.apache.commons.logging &gt; 1.0" OpenIDE-Module-Name="Lib ApacheCommonsConfiguration" OpenIDE-Module-Requires="org.openide.modules.ModuleFormat1" OpenIDE-Module-Specification-Version="1.10"/>
     
 </module>
 
-<module autoload="true" codenamebase="umich.ms.batmass.libs.apache.commons.configuration2" distribution="umich-ms-batmass-libs-apache-commons-configuration2.nbm" downloadsize="168316" homepage="" license="B2B74E56" moduleauthor="" needsrestart="false" releasedate="2017/07/06">
-    <manifest AutoUpdate-Show-In-Client="true" OpenIDE-Module="umich.ms.batmass.libs.apache.commons.configuration2" OpenIDE-Module-Implementation-Version="170706" OpenIDE-Module-Java-Dependencies="Java &gt; 1.4" OpenIDE-Module-Name="Lib ApacheCommonsConfiguration2" OpenIDE-Module-Requires="org.openide.modules.ModuleFormat1" OpenIDE-Module-Specification-Version="2.0"/>
+<module autoload="true" codenamebase="umich.ms.batmass.libs.apache.commons.configuration2" distribution="umich-ms-batmass-libs-apache-commons-configuration2.nbm" downloadsize="168326" homepage="" license="B2B74E56" moduleauthor="" needsrestart="false" releasedate="2018/06/14">
+    <manifest AutoUpdate-Show-In-Client="true" OpenIDE-Module="umich.ms.batmass.libs.apache.commons.configuration2" OpenIDE-Module-Implementation-Version="180613" OpenIDE-Module-Java-Dependencies="Java &gt; 1.4" OpenIDE-Module-Name="Lib ApacheCommonsConfiguration2" OpenIDE-Module-Requires="org.openide.modules.ModuleFormat1" OpenIDE-Module-Specification-Version="2.0"/>
     
 </module>
 
-<module autoload="true" codenamebase="umich.ms.batmass.libs.apache.commons.csv" distribution="umich-ms-batmass-libs-apache-commons-csv.nbm" downloadsize="31600" homepage="" license="B2B74E56" moduleauthor="" needsrestart="false" releasedate="2017/07/06">
-    <manifest AutoUpdate-Show-In-Client="true" OpenIDE-Module="umich.ms.batmass.libs.apache.commons.csv" OpenIDE-Module-Implementation-Version="170706" OpenIDE-Module-Java-Dependencies="Java &gt; 1.4" OpenIDE-Module-Name="Lib ApacheCommonsCSV" OpenIDE-Module-Requires="org.openide.modules.ModuleFormat1" OpenIDE-Module-Specification-Version="1.4"/>
+<module autoload="true" codenamebase="umich.ms.batmass.libs.apache.commons.csv" distribution="umich-ms-batmass-libs-apache-commons-csv.nbm" downloadsize="31609" homepage="" license="B2B74E56" moduleauthor="" needsrestart="false" releasedate="2018/06/14">
+    <manifest AutoUpdate-Show-In-Client="true" OpenIDE-Module="umich.ms.batmass.libs.apache.commons.csv" OpenIDE-Module-Implementation-Version="180613" OpenIDE-Module-Java-Dependencies="Java &gt; 1.4" OpenIDE-Module-Name="Lib ApacheCommonsCSV" OpenIDE-Module-Requires="org.openide.modules.ModuleFormat1" OpenIDE-Module-Specification-Version="1.4"/>
     
 </module>
 
-<module autoload="true" codenamebase="umich.ms.batmass.libs.apache.commons.io" distribution="umich-ms-batmass-libs-apache-commons-io.nbm" downloadsize="71584" homepage="" license="B2B74E56" moduleauthor="" needsrestart="false" releasedate="2017/07/06">
-    <manifest AutoUpdate-Show-In-Client="false" OpenIDE-Module="umich.ms.batmass.libs.apache.commons.io" OpenIDE-Module-Implementation-Version="170706" OpenIDE-Module-Java-Dependencies="Java &gt; 1.4" OpenIDE-Module-Name="Lib ApacheCommonsIO" OpenIDE-Module-Requires="org.openide.modules.ModuleFormat1" OpenIDE-Module-Specification-Version="2.4"/>
+<module autoload="true" codenamebase="umich.ms.batmass.libs.apache.commons.io" distribution="umich-ms-batmass-libs-apache-commons-io.nbm" downloadsize="71596" homepage="" license="B2B74E56" moduleauthor="" needsrestart="false" releasedate="2018/06/14">
+    <manifest AutoUpdate-Show-In-Client="false" OpenIDE-Module="umich.ms.batmass.libs.apache.commons.io" OpenIDE-Module-Implementation-Version="180613" OpenIDE-Module-Java-Dependencies="Java &gt; 1.4" OpenIDE-Module-Name="Lib ApacheCommonsIO" OpenIDE-Module-Requires="org.openide.modules.ModuleFormat1" OpenIDE-Module-Specification-Version="2.4"/>
     
 </module>
 
-<module autoload="true" codenamebase="umich.ms.batmass.libs.apache.commons.lang2" distribution="umich-ms-batmass-libs-apache-commons-lang2.nbm" downloadsize="108954" homepage="" license="B2B74E56" moduleauthor="" needsrestart="false" releasedate="2017/07/06">
-    <manifest AutoUpdate-Show-In-Client="false" OpenIDE-Module="umich.ms.batmass.libs.apache.commons.lang2" OpenIDE-Module-Implementation-Version="170706" OpenIDE-Module-Java-Dependencies="Java &gt; 1.4" OpenIDE-Module-Name="Lib ApacheCommonsLang2" OpenIDE-Module-Requires="org.openide.modules.ModuleFormat1" OpenIDE-Module-Specification-Version="2.6"/>
+<module autoload="true" codenamebase="umich.ms.batmass.libs.apache.commons.lang2" distribution="umich-ms-batmass-libs-apache-commons-lang2.nbm" downloadsize="108955" homepage="" license="B2B74E56" moduleauthor="" needsrestart="false" releasedate="2018/06/14">
+    <manifest AutoUpdate-Show-In-Client="false" OpenIDE-Module="umich.ms.batmass.libs.apache.commons.lang2" OpenIDE-Module-Implementation-Version="180613" OpenIDE-Module-Java-Dependencies="Java &gt; 1.4" OpenIDE-Module-Name="Lib ApacheCommonsLang2" OpenIDE-Module-Requires="org.openide.modules.ModuleFormat1" OpenIDE-Module-Specification-Version="2.6"/>
     
 </module>
 
-<module autoload="true" codenamebase="umich.ms.batmass.libs.apache.commons.lang3" distribution="umich-ms-batmass-libs-apache-commons-lang3.nbm" downloadsize="149533" homepage="" license="B2B74E56" moduleauthor="" needsrestart="false" releasedate="2017/07/06">
-    <manifest AutoUpdate-Show-In-Client="false" OpenIDE-Module="umich.ms.batmass.libs.apache.commons.lang3" OpenIDE-Module-Implementation-Version="170706" OpenIDE-Module-Java-Dependencies="Java &gt; 1.4" OpenIDE-Module-Name="Lib ApacheCommonsLang3" OpenIDE-Module-Requires="org.openide.modules.ModuleFormat1" OpenIDE-Module-Specification-Version="3.3.2"/>
+<module autoload="true" codenamebase="umich.ms.batmass.libs.apache.commons.lang3" distribution="umich-ms-batmass-libs-apache-commons-lang3.nbm" downloadsize="149528" homepage="" license="B2B74E56" moduleauthor="" needsrestart="false" releasedate="2018/06/14">
+    <manifest AutoUpdate-Show-In-Client="false" OpenIDE-Module="umich.ms.batmass.libs.apache.commons.lang3" OpenIDE-Module-Implementation-Version="180613" OpenIDE-Module-Java-Dependencies="Java &gt; 1.4" OpenIDE-Module-Name="Lib ApacheCommonsLang3" OpenIDE-Module-Requires="org.openide.modules.ModuleFormat1" OpenIDE-Module-Specification-Version="3.3.2"/>
     
 </module>
 
-<module autoload="true" codenamebase="umich.ms.batmass.libs.apache.commons.logging" distribution="umich-ms-batmass-libs-apache-commons-logging.nbm" downloadsize="38842" homepage="" license="B2B74E56" moduleauthor="" needsrestart="false" releasedate="2017/07/06">
-    <manifest AutoUpdate-Show-In-Client="false" OpenIDE-Module="umich.ms.batmass.libs.apache.commons.logging" OpenIDE-Module-Implementation-Version="170706" OpenIDE-Module-Java-Dependencies="Java &gt; 1.4" OpenIDE-Module-Name="Lib ApacheCommonsLogging" OpenIDE-Module-Requires="org.openide.modules.ModuleFormat1" OpenIDE-Module-Specification-Version="1.1.3"/>
+<module autoload="true" codenamebase="umich.ms.batmass.libs.apache.commons.logging" distribution="umich-ms-batmass-libs-apache-commons-logging.nbm" downloadsize="38849" homepage="" license="B2B74E56" moduleauthor="" needsrestart="false" releasedate="2018/06/14">
+    <manifest AutoUpdate-Show-In-Client="false" OpenIDE-Module="umich.ms.batmass.libs.apache.commons.logging" OpenIDE-Module-Implementation-Version="180613" OpenIDE-Module-Java-Dependencies="Java &gt; 1.4" OpenIDE-Module-Name="Lib ApacheCommonsLogging" OpenIDE-Module-Requires="org.openide.modules.ModuleFormat1" OpenIDE-Module-Specification-Version="1.1.3"/>
     
 </module>
 
-<module autoload="true" codenamebase="umich.ms.batmass.libs.apache.commons.math3" distribution="umich-ms-batmass-libs-apache-commons-math3.nbm" downloadsize="624394" homepage="" license="8AA10C9B" moduleauthor="" needsrestart="false" releasedate="2017/07/06">
-    <manifest AutoUpdate-Show-In-Client="false" OpenIDE-Module="umich.ms.batmass.libs.apache.commons.math3" OpenIDE-Module-Implementation-Version="170706" OpenIDE-Module-Java-Dependencies="Java &gt; 1.4" OpenIDE-Module-Name="Lib ApacheCommonsMath3" OpenIDE-Module-Requires="org.openide.modules.ModuleFormat1" OpenIDE-Module-Specification-Version="3.6.1"/>
+<module autoload="true" codenamebase="umich.ms.batmass.libs.apache.commons.math3" distribution="umich-ms-batmass-libs-apache-commons-math3.nbm" downloadsize="624400" homepage="" license="8AA10C9B" moduleauthor="" needsrestart="false" releasedate="2018/06/14">
+    <manifest AutoUpdate-Show-In-Client="false" OpenIDE-Module="umich.ms.batmass.libs.apache.commons.math3" OpenIDE-Module-Implementation-Version="180613" OpenIDE-Module-Java-Dependencies="Java &gt; 1.4" OpenIDE-Module-Name="Lib ApacheCommonsMath3" OpenIDE-Module-Requires="org.openide.modules.ModuleFormat1" OpenIDE-Module-Specification-Version="3.6.1"/>
     
 </module>
 
-<module autoload="true" codenamebase="umich.ms.batmass.libs.apache.commons.validator" distribution="umich-ms-batmass-libs-apache-commons-validator.nbm" downloadsize="383752" homepage="" license="B2B74E56" moduleauthor="" needsrestart="false" releasedate="2017/07/06">
-    <manifest AutoUpdate-Show-In-Client="false" OpenIDE-Module="umich.ms.batmass.libs.apache.commons.validator" OpenIDE-Module-Implementation-Version="170706" OpenIDE-Module-Java-Dependencies="Java &gt; 1.4" OpenIDE-Module-Name="Lib ApacheCommonsValidator" OpenIDE-Module-Requires="org.openide.modules.ModuleFormat1" OpenIDE-Module-Specification-Version="1.4.0"/>
+<module autoload="true" codenamebase="umich.ms.batmass.libs.apache.commons.validator" distribution="umich-ms-batmass-libs-apache-commons-validator.nbm" downloadsize="383772" homepage="" license="B2B74E56" moduleauthor="" needsrestart="false" releasedate="2018/06/14">
+    <manifest AutoUpdate-Show-In-Client="false" OpenIDE-Module="umich.ms.batmass.libs.apache.commons.validator" OpenIDE-Module-Implementation-Version="180613" OpenIDE-Module-Java-Dependencies="Java &gt; 1.4" OpenIDE-Module-Name="Lib ApacheCommonsValidator" OpenIDE-Module-Requires="org.openide.modules.ModuleFormat1" OpenIDE-Module-Specification-Version="1.4.0"/>
     
 </module>
 
-<module autoload="true" codenamebase="umich.ms.batmass.libs.fst158" distribution="umich-ms-batmass-libs-fst158.nbm" downloadsize="273105" homepage="" license="AD9FBBC9" moduleauthor="" needsrestart="false" releasedate="2017/07/06">
-    <manifest AutoUpdate-Show-In-Client="false" OpenIDE-Module="umich.ms.batmass.libs.fst158" OpenIDE-Module-Implementation-Version="170706" OpenIDE-Module-Java-Dependencies="Java &gt; 1.4" OpenIDE-Module-Name="Lib FST 1.58" OpenIDE-Module-Requires="org.openide.modules.ModuleFormat1" OpenIDE-Module-Specification-Version="1.58"/>
+<module autoload="true" codenamebase="umich.ms.batmass.libs.fst158" distribution="umich-ms-batmass-libs-fst158.nbm" downloadsize="273109" homepage="" license="AD9FBBC9" moduleauthor="" needsrestart="false" releasedate="2018/06/14">
+    <manifest AutoUpdate-Show-In-Client="false" OpenIDE-Module="umich.ms.batmass.libs.fst158" OpenIDE-Module-Implementation-Version="180613" OpenIDE-Module-Java-Dependencies="Java &gt; 1.4" OpenIDE-Module-Name="Lib FST 1.58" OpenIDE-Module-Requires="org.openide.modules.ModuleFormat1" OpenIDE-Module-Specification-Version="1.58"/>
     
 </module>
 
-<module autoload="true" codenamebase="umich.ms.batmass.libs.fst200" distribution="umich-ms-batmass-libs-fst200.nbm" downloadsize="269846" homepage="" license="AD9FBBC9" moduleauthor="" needsrestart="false" releasedate="2017/07/06">
-    <manifest AutoUpdate-Show-In-Client="false" OpenIDE-Module="umich.ms.batmass.libs.fst200" OpenIDE-Module-Implementation-Version="170706" OpenIDE-Module-Java-Dependencies="Java &gt; 1.4" OpenIDE-Module-Name="Lib FST 2.00" OpenIDE-Module-Requires="org.openide.modules.ModuleFormat1" OpenIDE-Module-Specification-Version="2.0"/>
+<module autoload="true" codenamebase="umich.ms.batmass.libs.fst200" distribution="umich-ms-batmass-libs-fst200.nbm" downloadsize="269853" homepage="" license="AD9FBBC9" moduleauthor="" needsrestart="false" releasedate="2018/06/14">
+    <manifest AutoUpdate-Show-In-Client="false" OpenIDE-Module="umich.ms.batmass.libs.fst200" OpenIDE-Module-Implementation-Version="180613" OpenIDE-Module-Java-Dependencies="Java &gt; 1.4" OpenIDE-Module-Name="Lib FST 2.00" OpenIDE-Module-Requires="org.openide.modules.ModuleFormat1" OpenIDE-Module-Specification-Version="2.0"/>
     
 </module>
 
-<module autoload="true" codenamebase="umich.ms.batmass.libs.guava" distribution="umich-ms-batmass-libs-guava.nbm" downloadsize="505887" homepage="" license="AD9FBBC9" moduleauthor="" needsrestart="false" releasedate="2017/07/06">
-    <manifest AutoUpdate-Show-In-Client="true" OpenIDE-Module="umich.ms.batmass.libs.guava" OpenIDE-Module-Implementation-Version="170706" OpenIDE-Module-Java-Dependencies="Java &gt; 1.4" OpenIDE-Module-Name="Lib Guava (Java7)" OpenIDE-Module-Requires="org.openide.modules.ModuleFormat1" OpenIDE-Module-Specification-Version="22.0"/>
+<module autoload="true" codenamebase="umich.ms.batmass.libs.guava" distribution="umich-ms-batmass-libs-guava.nbm" downloadsize="505896" homepage="" license="AD9FBBC9" moduleauthor="" needsrestart="false" releasedate="2018/06/14">
+    <manifest AutoUpdate-Show-In-Client="true" OpenIDE-Module="umich.ms.batmass.libs.guava" OpenIDE-Module-Implementation-Version="180613" OpenIDE-Module-Java-Dependencies="Java &gt; 1.4" OpenIDE-Module-Name="Lib Guava (Java7)" OpenIDE-Module-Requires="org.openide.modules.ModuleFormat1" OpenIDE-Module-Specification-Version="22.0"/>
     
 </module>
 
-<module autoload="true" codenamebase="umich.ms.batmass.libs.guavamini" distribution="umich-ms-batmass-libs-guavamini.nbm" downloadsize="15682" homepage="" license="B2B74E56" moduleauthor="" needsrestart="false" releasedate="2017/07/06">
-    <manifest AutoUpdate-Show-In-Client="true" OpenIDE-Module="umich.ms.batmass.libs.guavamini" OpenIDE-Module-Implementation-Version="170706" OpenIDE-Module-Java-Dependencies="Java &gt; 1.4" OpenIDE-Module-Name="Lib Guava Mini" OpenIDE-Module-Requires="org.openide.modules.ModuleFormat1" OpenIDE-Module-Specification-Version="0.1.1"/>
+<module autoload="true" codenamebase="umich.ms.batmass.libs.guavamini" distribution="umich-ms-batmass-libs-guavamini.nbm" downloadsize="15693" homepage="" license="B2B74E56" moduleauthor="" needsrestart="false" releasedate="2018/06/14">
+    <manifest AutoUpdate-Show-In-Client="true" OpenIDE-Module="umich.ms.batmass.libs.guavamini" OpenIDE-Module-Implementation-Version="180613" OpenIDE-Module-Java-Dependencies="Java &gt; 1.4" OpenIDE-Module-Name="Lib Guava Mini" OpenIDE-Module-Requires="org.openide.modules.ModuleFormat1" OpenIDE-Module-Specification-Version="0.1.1"/>
     
 </module>
 
-<module autoload="true" codenamebase="umich.ms.batmass.libs.javaobjectdiff" distribution="umich-ms-batmass-libs-javaobjectdiff.nbm" downloadsize="45145" homepage="" license="B2B74E56" moduleauthor="" needsrestart="false" releasedate="2017/07/06">
-    <manifest AutoUpdate-Show-In-Client="true" OpenIDE-Module="umich.ms.batmass.libs.javaobjectdiff" OpenIDE-Module-Implementation-Version="170706" OpenIDE-Module-Java-Dependencies="Java &gt; 1.4" OpenIDE-Module-Module-Dependencies="umich.ms.batmass.libs &gt; 1.7.10" OpenIDE-Module-Name="Lib JavaObjectDiff" OpenIDE-Module-Requires="org.openide.modules.ModuleFormat1" OpenIDE-Module-Specification-Version="0.92"/>
+<module autoload="true" codenamebase="umich.ms.batmass.libs.javaobjectdiff" distribution="umich-ms-batmass-libs-javaobjectdiff.nbm" downloadsize="45152" homepage="" license="B2B74E56" moduleauthor="" needsrestart="false" releasedate="2018/06/14">
+    <manifest AutoUpdate-Show-In-Client="true" OpenIDE-Module="umich.ms.batmass.libs.javaobjectdiff" OpenIDE-Module-Implementation-Version="180613" OpenIDE-Module-Java-Dependencies="Java &gt; 1.4" OpenIDE-Module-Module-Dependencies="umich.ms.batmass.libs &gt; 1.7.10" OpenIDE-Module-Name="Lib JavaObjectDiff" OpenIDE-Module-Requires="org.openide.modules.ModuleFormat1" OpenIDE-Module-Specification-Version="0.92"/>
     
 </module>
 
-<module autoload="true" codenamebase="umich.ms.batmass.libs.javolution" distribution="umich-ms-batmass-libs-javolution.nbm" downloadsize="119426" homepage="" license="255254C5" moduleauthor="" needsrestart="false" releasedate="2017/07/06">
-    <manifest AutoUpdate-Show-In-Client="true" OpenIDE-Module="umich.ms.batmass.libs.javolution" OpenIDE-Module-Implementation-Version="170706" OpenIDE-Module-Java-Dependencies="Java &gt; 1.4" OpenIDE-Module-Name="Lib Javolution" OpenIDE-Module-Requires="org.openide.modules.ModuleFormat1" OpenIDE-Module-Specification-Version="6.11.7"/>
+<module autoload="true" codenamebase="umich.ms.batmass.libs.javolution" distribution="umich-ms-batmass-libs-javolution.nbm" downloadsize="119889" homepage="" license="255254C5" moduleauthor="" needsrestart="false" releasedate="2018/06/14">
+    <manifest AutoUpdate-Show-In-Client="true" OpenIDE-Module="umich.ms.batmass.libs.javolution" OpenIDE-Module-Implementation-Version="180613" OpenIDE-Module-Java-Dependencies="Java &gt; 1.4" OpenIDE-Module-Name="Lib Javolution" OpenIDE-Module-Requires="org.openide.modules.ModuleFormat1" OpenIDE-Module-Specification-Version="6.11.8"/>
     
 </module>
 
-<module autoload="true" codenamebase="umich.ms.batmass.libs.jts" distribution="umich-ms-batmass-libs-jts.nbm" downloadsize="229950" homepage="" license="72CA434C" moduleauthor="" needsrestart="false" releasedate="2017/07/06">
-    <manifest AutoUpdate-Show-In-Client="true" OpenIDE-Module="umich.ms.batmass.libs.jts" OpenIDE-Module-Implementation-Version="170706" OpenIDE-Module-Java-Dependencies="Java &gt; 1.4" OpenIDE-Module-Name="Lib JTS" OpenIDE-Module-Requires="org.openide.modules.ModuleFormat1" OpenIDE-Module-Specification-Version="1.14"/>
+<module autoload="true" codenamebase="umich.ms.batmass.libs.jts" distribution="umich-ms-batmass-libs-jts.nbm" downloadsize="229960" homepage="" license="72CA434C" moduleauthor="" needsrestart="false" releasedate="2018/06/14">
+    <manifest AutoUpdate-Show-In-Client="true" OpenIDE-Module="umich.ms.batmass.libs.jts" OpenIDE-Module-Implementation-Version="180613" OpenIDE-Module-Java-Dependencies="Java &gt; 1.4" OpenIDE-Module-Name="Lib JTS" OpenIDE-Module-Requires="org.openide.modules.ModuleFormat1" OpenIDE-Module-Specification-Version="1.14"/>
     
 </module>
 
-<module autoload="true" codenamebase="umich.ms.batmass.libs.log4j" distribution="umich-ms-batmass-libs-log4j.nbm" downloadsize="267045" homepage="" license="689E5E31" moduleauthor="" needsrestart="false" releasedate="2017/07/06">
-    <manifest AutoUpdate-Show-In-Client="true" OpenIDE-Module="umich.ms.batmass.libs.log4j" OpenIDE-Module-Implementation-Version="170706" OpenIDE-Module-Java-Dependencies="Java &gt; 1.4" OpenIDE-Module-Name="Lib Log4j" OpenIDE-Module-Requires="org.openide.modules.ModuleFormat1" OpenIDE-Module-Specification-Version="1.0"/>
+<module autoload="true" codenamebase="umich.ms.batmass.libs.log4j" distribution="umich-ms-batmass-libs-log4j.nbm" downloadsize="267055" homepage="" license="689E5E31" moduleauthor="" needsrestart="false" releasedate="2018/06/14">
+    <manifest AutoUpdate-Show-In-Client="true" OpenIDE-Module="umich.ms.batmass.libs.log4j" OpenIDE-Module-Implementation-Version="180613" OpenIDE-Module-Java-Dependencies="Java &gt; 1.4" OpenIDE-Module-Name="Lib Log4j" OpenIDE-Module-Requires="org.openide.modules.ModuleFormat1" OpenIDE-Module-Specification-Version="1.0"/>
     
 </module>
 
-<module autoload="true" codenamebase="umich.ms.batmass.libs.mbassador" distribution="umich-ms-batmass-libs-mbassador.nbm" downloadsize="26340" homepage="" license="87A0296C" moduleauthor="" needsrestart="false" releasedate="2017/07/06">
-    <manifest AutoUpdate-Show-In-Client="true" OpenIDE-Module="umich.ms.batmass.libs.mbassador" OpenIDE-Module-Implementation-Version="170706" OpenIDE-Module-Java-Dependencies="Java &gt; 1.4" OpenIDE-Module-Name="Lib Mbassador" OpenIDE-Module-Requires="org.openide.modules.ModuleFormat1" OpenIDE-Module-Specification-Version="1.2.1"/>
+<module autoload="true" codenamebase="umich.ms.batmass.libs.mbassador" distribution="umich-ms-batmass-libs-mbassador.nbm" downloadsize="26349" homepage="" license="87A0296C" moduleauthor="" needsrestart="false" releasedate="2018/06/14">
+    <manifest AutoUpdate-Show-In-Client="true" OpenIDE-Module="umich.ms.batmass.libs.mbassador" OpenIDE-Module-Implementation-Version="180613" OpenIDE-Module-Java-Dependencies="Java &gt; 1.4" OpenIDE-Module-Name="Lib Mbassador" OpenIDE-Module-Requires="org.openide.modules.ModuleFormat1" OpenIDE-Module-Specification-Version="1.2.1"/>
     
 </module>
 
-<module autoload="true" codenamebase="umich.ms.batmass.libs.libmysqlconnector" distribution="umich-ms-batmass-libs-libmysqlconnector.nbm" downloadsize="309849" homepage="" license="AD9FBBC9" moduleauthor="" needsrestart="false" releasedate="2017/07/06">
-    <manifest AutoUpdate-Show-In-Client="false" OpenIDE-Module="umich.ms.batmass.libs.libmysqlconnector" OpenIDE-Module-Implementation-Version="170706" OpenIDE-Module-Java-Dependencies="Java &gt; 1.4" OpenIDE-Module-Name="Lib MySQLConnector" OpenIDE-Module-Requires="org.openide.modules.ModuleFormat1" OpenIDE-Module-Specification-Version="5.1.26"/>
+<module autoload="true" codenamebase="umich.ms.batmass.libs.libmysqlconnector" distribution="umich-ms-batmass-libs-libmysqlconnector.nbm" downloadsize="309852" homepage="" license="AD9FBBC9" moduleauthor="" needsrestart="false" releasedate="2018/06/14">
+    <manifest AutoUpdate-Show-In-Client="false" OpenIDE-Module="umich.ms.batmass.libs.libmysqlconnector" OpenIDE-Module-Implementation-Version="180613" OpenIDE-Module-Java-Dependencies="Java &gt; 1.4" OpenIDE-Module-Name="Lib MySQLConnector" OpenIDE-Module-Requires="org.openide.modules.ModuleFormat1" OpenIDE-Module-Specification-Version="5.1.26"/>
     
 </module>
 
-<module autoload="true" codenamebase="umich.ms.batmass.libs.rtree" distribution="umich-ms-batmass-libs-rtree.nbm" downloadsize="50346" homepage="" license="B2B74E56" moduleauthor="" needsrestart="false" releasedate="2017/07/06">
-    <manifest AutoUpdate-Show-In-Client="true" OpenIDE-Module="umich.ms.batmass.libs.rtree" OpenIDE-Module-Implementation-Version="170706" OpenIDE-Module-Java-Dependencies="Java &gt; 1.4" OpenIDE-Module-Module-Dependencies="umich.ms.batmass.libs.guavamini &gt; 0.1.1, umich.ms.batmass.libs.jts &gt; 1.14, umich.ms.batmass.libs.rxjava &gt; 1.2.10, umich.ms.batmass.libs.rxjavaextras &gt; 0.8.0.7" OpenIDE-Module-Name="Lib RTree" OpenIDE-Module-Requires="org.openide.modules.ModuleFormat1" OpenIDE-Module-Specification-Version="0.8.0.1"/>
+<module autoload="true" codenamebase="umich.ms.batmass.libs.rtree" distribution="umich-ms-batmass-libs-rtree.nbm" downloadsize="50358" homepage="" license="B2B74E56" moduleauthor="" needsrestart="false" releasedate="2018/06/14">
+    <manifest AutoUpdate-Show-In-Client="true" OpenIDE-Module="umich.ms.batmass.libs.rtree" OpenIDE-Module-Implementation-Version="180613" OpenIDE-Module-Java-Dependencies="Java &gt; 1.4" OpenIDE-Module-Module-Dependencies="umich.ms.batmass.libs.guavamini &gt; 0.1.1, umich.ms.batmass.libs.jts &gt; 1.14, umich.ms.batmass.libs.rxjava &gt; 1.2.10, umich.ms.batmass.libs.rxjavaextras &gt; 0.8.0.7" OpenIDE-Module-Name="Lib RTree" OpenIDE-Module-Requires="org.openide.modules.ModuleFormat1" OpenIDE-Module-Specification-Version="0.8.0.1"/>
     
 </module>
 
-<module autoload="true" codenamebase="umich.ms.batmass.libs.rxjava" distribution="umich-ms-batmass-libs-rxjava.nbm" downloadsize="223492" homepage="" license="51AB1A9" moduleauthor="" needsrestart="false" releasedate="2017/07/06">
-    <manifest AutoUpdate-Show-In-Client="true" OpenIDE-Module="umich.ms.batmass.libs.rxjava" OpenIDE-Module-Implementation-Version="170706" OpenIDE-Module-Java-Dependencies="Java &gt; 1.4" OpenIDE-Module-Name="Lib RxJava" OpenIDE-Module-Requires="org.openide.modules.ModuleFormat1" OpenIDE-Module-Specification-Version="1.2.10"/>
+<module autoload="true" codenamebase="umich.ms.batmass.libs.rxjava" distribution="umich-ms-batmass-libs-rxjava.nbm" downloadsize="223501" homepage="" license="51AB1A9" moduleauthor="" needsrestart="false" releasedate="2018/06/14">
+    <manifest AutoUpdate-Show-In-Client="true" OpenIDE-Module="umich.ms.batmass.libs.rxjava" OpenIDE-Module-Implementation-Version="180613" OpenIDE-Module-Java-Dependencies="Java &gt; 1.4" OpenIDE-Module-Name="Lib RxJava" OpenIDE-Module-Requires="org.openide.modules.ModuleFormat1" OpenIDE-Module-Specification-Version="1.2.10"/>
     
 </module>
 
-<module autoload="true" codenamebase="umich.ms.batmass.libs.rxjavaextras" distribution="umich-ms-batmass-libs-rxjavaextras.nbm" downloadsize="85536" homepage="" license="B2B74E56" moduleauthor="" needsrestart="false" releasedate="2017/07/06">
-    <manifest AutoUpdate-Show-In-Client="true" OpenIDE-Module="umich.ms.batmass.libs.rxjavaextras" OpenIDE-Module-Implementation-Version="170706" OpenIDE-Module-Java-Dependencies="Java &gt; 1.4" OpenIDE-Module-Name="Lib RxJava Extras" OpenIDE-Module-Requires="org.openide.modules.ModuleFormat1" OpenIDE-Module-Specification-Version="0.8.0.7"/>
+<module autoload="true" codenamebase="umich.ms.batmass.libs.rxjavaextras" distribution="umich-ms-batmass-libs-rxjavaextras.nbm" downloadsize="85547" homepage="" license="B2B74E56" moduleauthor="" needsrestart="false" releasedate="2018/06/14">
+    <manifest AutoUpdate-Show-In-Client="true" OpenIDE-Module="umich.ms.batmass.libs.rxjavaextras" OpenIDE-Module-Implementation-Version="180613" OpenIDE-Module-Java-Dependencies="Java &gt; 1.4" OpenIDE-Module-Name="Lib RxJava Extras" OpenIDE-Module-Requires="org.openide.modules.ModuleFormat1" OpenIDE-Module-Specification-Version="0.8.0.7"/>
     
 </module>
 
-<module autoload="true" codenamebase="umich.ms.batmass.libs" distribution="umich-ms-batmass-libs.nbm" downloadsize="15818" homepage="" license="20DE6E1" moduleauthor="" needsrestart="false" releasedate="2017/07/06">
-    <manifest AutoUpdate-Show-In-Client="true" OpenIDE-Module="umich.ms.batmass.libs" OpenIDE-Module-Implementation-Version="170706" OpenIDE-Module-Java-Dependencies="Java &gt; 1.4" OpenIDE-Module-Name="Lib SLF4j API" OpenIDE-Module-Requires="org.openide.modules.ModuleFormat1" OpenIDE-Module-Specification-Version="1.7.10"/>
+<module autoload="true" codenamebase="umich.ms.batmass.libs" distribution="umich-ms-batmass-libs.nbm" downloadsize="15828" homepage="" license="20DE6E1" moduleauthor="" needsrestart="false" releasedate="2018/06/14">
+    <manifest AutoUpdate-Show-In-Client="true" OpenIDE-Module="umich.ms.batmass.libs" OpenIDE-Module-Implementation-Version="180613" OpenIDE-Module-Java-Dependencies="Java &gt; 1.4" OpenIDE-Module-Name="Lib SLF4j API" OpenIDE-Module-Requires="org.openide.modules.ModuleFormat1" OpenIDE-Module-Specification-Version="1.7.10"/>
     
 </module>
 
-<module autoload="true" codenamebase="umich.ms.batmass.libs.slf4j.jul" distribution="umich-ms-batmass-libs-slf4j-jul.nbm" downloadsize="7983" homepage="" license="20DE6E1" moduleauthor="" needsrestart="false" releasedate="2017/07/06">
-    <manifest AutoUpdate-Show-In-Client="true" OpenIDE-Module="umich.ms.batmass.libs.slf4j.jul" OpenIDE-Module-Implementation-Version="170706" OpenIDE-Module-Java-Dependencies="Java &gt; 1.4" OpenIDE-Module-Name="Lib SLF4j java.util.logging" OpenIDE-Module-Requires="org.openide.modules.ModuleFormat1" OpenIDE-Module-Specification-Version="1.7.10"/>
+<module autoload="true" codenamebase="umich.ms.batmass.libs.slf4j.jul" distribution="umich-ms-batmass-libs-slf4j-jul.nbm" downloadsize="7990" homepage="" license="20DE6E1" moduleauthor="" needsrestart="false" releasedate="2018/06/14">
+    <manifest AutoUpdate-Show-In-Client="true" OpenIDE-Module="umich.ms.batmass.libs.slf4j.jul" OpenIDE-Module-Implementation-Version="180613" OpenIDE-Module-Java-Dependencies="Java &gt; 1.4" OpenIDE-Module-Name="Lib SLF4j java.util.logging" OpenIDE-Module-Requires="org.openide.modules.ModuleFormat1" OpenIDE-Module-Specification-Version="1.7.10"/>
     
 </module>
 
-<license name="8AA10C9B" url="licenses/8AA10C9B.license"/>
-<license name="20DE6E1" url="licenses/20DE6E1.license"/>
-<license name="255254C5" url="licenses/255254C5.license"/>
+<license name="B2B74E56" url="licenses/B2B74E56.license"/>
 <license name="51AB1A9" url="licenses/51AB1A9.license"/>
 <license name="AD9FBBC9" url="licenses/AD9FBBC9.license"/>
-<license name="72CA434C" url="licenses/72CA434C.license"/>
-<license name="B2B74E56" url="licenses/B2B74E56.license"/>
-<license name="87A0296C" url="licenses/87A0296C.license"/>
 <license name="689E5E31" url="licenses/689E5E31.license"/>
+<license name="87A0296C" url="licenses/87A0296C.license"/>
+<license name="20DE6E1" url="licenses/20DE6E1.license"/>
+<license name="8AA10C9B" url="licenses/8AA10C9B.license"/>
+<license name="255254C5" url="licenses/255254C5.license"/>
+<license name="72CA434C" url="licenses/72CA434C.license"/>
 </module_updates>
 
